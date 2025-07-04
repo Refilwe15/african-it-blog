@@ -1,5 +1,5 @@
 
-let count;
+ 
 
 document.getElementById("btn").addEventListener("click", function() {
     const selected = document.querySelector('input[name="rate"]:checked');
