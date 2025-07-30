@@ -34,7 +34,9 @@ p {
   transform: translate(-5px);
   
 }
-
+.nav{
+    
+}
 .section img {
   width: 100%;
   max-width: 320px;
@@ -132,6 +134,10 @@ button:hover {
   .nav {
     flex-direction: column;
     align-items: center;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.07);
+    padding: 18px 0;
   }
 
   li {
